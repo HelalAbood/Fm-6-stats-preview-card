@@ -35,7 +35,7 @@ This is a solution to the [Stats preview card component solution](https://www.fr
 - CSS custom properties
 - BootStrap 3
 - Flexbox
-- CSS Grid System
+- Contract
 - Mobile-first workflow
 
 ## Author
